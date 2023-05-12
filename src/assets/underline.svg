@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="xMidYMid meet" data-bbox="3 6 144 24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 36" height="36" width="150" data-type="ugc" role="presentation" aria-hidden="true">
+    <g>
+        <path stroke-width="8" stroke="url(#svgcid-egcbks1da95k)" d="m3 6 24 24L51 6l24 24L99 6l24 24 24-24" fill="none"></path>
+        <defs fill="none">
+            <linearGradient gradientUnits="userSpaceOnUse" y2="18" x2="147" y1="18" x1="3" id="svgcid-egcbks1da95k">
+                <stop stop-color="#3754FB"></stop>
+                <stop stop-color="#FC01FF" offset="1"></stop>
+            </linearGradient>
+        </defs>
+    </g>
+</svg>
